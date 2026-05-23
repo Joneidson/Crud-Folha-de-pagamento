@@ -107,8 +107,7 @@ Matrícula: 456
 Comissão: 500.0
 Salário Final: 2500.0
 👩‍💻 Autora
-
-Anne Caroline das Virgens de Jesus
+Joneidson victor
 
 📚 Objetivo acadêmico
 
