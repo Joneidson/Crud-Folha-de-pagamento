@@ -106,7 +106,9 @@ Nome: João
 Matrícula: 456
 Comissão: 500.0
 Salário Final: 2500.0
-👩‍💻 Autora
+
+👩‍💻 Autor
+
 Joneidson victor
 
 📚 Objetivo acadêmico
